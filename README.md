@@ -3,7 +3,7 @@
 - I know GDscript, JaveScript, GO, and learning c#
 - 🌱 I’m currently learning c# by making things in godot 
 - 📫 How to reach me Discord ID:395818519041802241 
-- ⚡ Fun fact: ...
+
 
 <!---
 Bradondev/Bradondev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
